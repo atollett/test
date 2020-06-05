@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(98, 57, 136);
+    text-align: center;
+    background-color: darkslategray;
+}
+
+h2 {
+    color: cyan;
+    text-align: center;
+}
+
+.list {
+    color: darkblue;
+    text-align: center;
+}
+
+#para {
+    text-align: center;
+    border-color: darkslategray;
+    border-style: double;
+}
+
+.image {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
